@@ -6,3 +6,7 @@ Pages
 
 - Login
 - Home
+
+## Demo
+
+![demo output](/public/demo.gif)
