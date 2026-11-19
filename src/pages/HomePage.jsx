@@ -14,6 +14,7 @@ export default function HomePage() {
   return (
     <div className='w-full min-h-dvh bg-stone-950 flex flex-col justify-center items-center gap-10'>
       <h1 className='text-6xl text-stone-100'>Welcome in home page</h1>
+      <p className='text-3xl text-stone-100'>{user?.username}</p>
     </div>
   );
 }
